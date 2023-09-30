@@ -1,2 +1,2 @@
-# grit
-ew fall intensive (2023) team task 1
+# GRIT
+*a modest team project about grit - characteristics of grit and how grit changes us*
